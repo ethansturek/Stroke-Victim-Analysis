@@ -36,5 +36,7 @@ There is no information on how the data was collected because of the confidentia
 ### **Limits**  
 Due to the confidential nature of the data, it is impossible to tell where, when, or how the data was collected. This poses a challenge in verifying the legitimacy of said data. We will have to consider this legitimacy issue when coming to conclusions on the data.
 
+# The Analysis
+The full analysis can be accessed in the notebooks folder and the accompanying Tableau dashboard can be accessed [here](https://public.tableau.com/app/profile/ethan.sturek/viz/AgingandStrokes/AgingandStrokes-Doesfrequencyofstrokeincreasewithage)
 ## Link to data:
  https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
